@@ -53,6 +53,29 @@ FoodMatch é uma plataforma web desenvolvida em Laravel que utiliza Inteligênci
 - [ ] **Upload de Arquivos**: Sistema de upload de fotos de perfil
 - [ ] **CORS Habilitado**: Suporte para requisições cross-origin
 
+## Requisitos implementados 🛠️:
+
+☑ O sistema permite ao usuário se cadastrar no site.
+
+☑ O usuário poderá redefinir a senha.
+
+☑ O usuário deve poder inserir suas restrições alimentares e preferências.
+
+☑ O sistema deve sugerir receitas personalizadas com base nos ingredientes disponíveis.
+
+☑ O sistema deve ter uma interface intuitiva.
+
+☑ O sistema deve oferecer suporte em português e inglês.
+
+☑ O sistema deve ser acessível em dispositivos móveis e desktops.
+
+☑ O sistema deve contar com um suporte ao usuário.
+
+☑ O usuário poderá gerar uma lista de compras com os ingredientes das receitas.
+
+☑ O sistema deve permitir que o usuário escolha entre modo claro e escuro.
+
+
 ## 🏗️ Arquitetura do Sistema
 
 ### Backend (Laravel)
